@@ -1,0 +1,23 @@
+{
+  "name": "turbo-spoon",
+  "version": "1.0.0",
+  "description": "A full-stack portfolio project for automating e-commerce workflows.",
+  "homepage": "https://github.com/erogers6264/turbo-spoon#readme",
+  "bugs": {
+    "url": "https://github.com/erogers6264/turbo-spoon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erogers6264/turbo-spoon.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
